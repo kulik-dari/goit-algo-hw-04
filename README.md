@@ -9,7 +9,7 @@
 goit-algo-hw-04/
 ├── sorting_comparison.py              # Версія З matplotlib (графіки)
 ├── sorting_comparison_alternative.py  # Версія БЕЗ matplotlib
-├── merge_k_lists.py                  об'єднати їх у один відсортований списокння
+├── merge_k_lists.py                   # об'єднання у один відсортований список
 └── README.md                          # Цей файл
 ```
 
